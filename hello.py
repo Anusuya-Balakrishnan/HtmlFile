@@ -4,3 +4,5 @@ print(b)
 ##declaring a variable named as my_variable
 my_variable1=50
 print('Hello \twelcome to ocean academy')
+
+print("completed")
